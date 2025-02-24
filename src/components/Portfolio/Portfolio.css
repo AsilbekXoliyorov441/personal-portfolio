@@ -38,3 +38,15 @@
   border-radius: 19px;
 }
 
+.swiper-pagination{
+  top: 220px;
+}
+
+.swiper-pagination-bullet{
+  background: orange !important;
+}
+
+.swiper-pagination-bullet-active{
+  background: orange !important;
+}
+

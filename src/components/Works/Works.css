@@ -76,6 +76,7 @@
   top: 13rem;
 }
 .w-secCircle {
+  overflow: hidden;
   width: 6rem;
   height: 6rem;
   position: absolute;
@@ -90,7 +91,8 @@
 }
 
 .w-secCircle > img {
-  transform: scale(0.6);
+  transform: scale(0.4);
+  object-fit: contain;
 }
 
 .w-backCircle {

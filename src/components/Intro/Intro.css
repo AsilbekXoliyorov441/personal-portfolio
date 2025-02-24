@@ -1,7 +1,10 @@
+
+#intro{
+  padding-top: 220px;
+}
 .Intro {
   display: flex;
-  height: 77vh;
-  margin-top: 6rem;
+  /* height: 77vh; */
 }
 
 /* left side styling */
